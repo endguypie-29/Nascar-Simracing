@@ -194,4 +194,4 @@ This repository serves as the official landing page for NASCAR SimRacing. The so
 **Get the most recent version of NASCAR SimRacing today!**
 
 ---
-**Last updated:** 2026-11-13 02:14:15 UTC
+**Last updated:** 2026-11-13 10:14:38 UTC
